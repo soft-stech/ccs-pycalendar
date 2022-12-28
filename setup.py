@@ -17,7 +17,7 @@
 from distutils.core import setup, Extension
 
 
-#edit for actual git url
+#edit for actual git url*
 setup(
     name="pycalendar",
     version="2.1",
