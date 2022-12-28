@@ -20,7 +20,7 @@ setup(
     name="pycalendar",
     version="2.1",
     description="iCalendar/vCard Library",
-    url="https://github.com/apple/ccs-pycalendar",
+    url="https://github.com/stech-soft/ccs-pycalendar",
     license="Apache 2.0",
     platforms=["any"],
     package_dir={'': 'src'},
